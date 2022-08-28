@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Socket_IO-Chat-app/static/css/main.5a1eac7e.chunk.css",
-    "main.js": "/React-Socket_IO-Chat-app/static/js/main.891f0134.chunk.js",
-    "main.js.map": "/React-Socket_IO-Chat-app/static/js/main.891f0134.chunk.js.map",
+    "main.js": "/React-Socket_IO-Chat-app/static/js/main.3a1c1894.chunk.js",
+    "main.js.map": "/React-Socket_IO-Chat-app/static/js/main.3a1c1894.chunk.js.map",
     "runtime-main.js": "/React-Socket_IO-Chat-app/static/js/runtime-main.27309f91.js",
     "runtime-main.js.map": "/React-Socket_IO-Chat-app/static/js/runtime-main.27309f91.js.map",
     "static/js/2.f49c4346.chunk.js": "/React-Socket_IO-Chat-app/static/js/2.f49c4346.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.27309f91.js",
     "static/js/2.f49c4346.chunk.js",
     "static/css/main.5a1eac7e.chunk.css",
-    "static/js/main.891f0134.chunk.js"
+    "static/js/main.3a1c1894.chunk.js"
   ]
 }
